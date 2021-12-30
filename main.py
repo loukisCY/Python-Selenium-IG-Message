@@ -23,7 +23,7 @@ def click_element_by_text(dr, el):
 
 
 def main():
-    f = open("CREDENTIALS.txt", "r")
+    f = open("CONFIG.txt", "r")
     cr = []
     for item in f:
         cr.append(item.removesuffix('\n'))
@@ -66,7 +66,7 @@ def main():
 
     click_element_by_text(driver, 'Send')
 
-    # driver.close()
+    driver.close()
 
 
 if __name__ == '__main__':

@@ -1,0 +1,43 @@
+1640868783071	geckodriver	INFO	Listening on 127.0.0.1:65010
+1640868786231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65011" "-no-remote" "-profile" "C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofile0p5y9Y"
+1640868786501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofile0p5y9Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65011/devtools/browser/c867f5da-8118-4946-88c5-1da6c750ce64
+1640868788271	Marionette	INFO	Listening on port 65016
+1640868788376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640868799844	Marionette	INFO	Stopped listening on port 65016
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640869026975	geckodriver	INFO	Listening on 127.0.0.1:56382
+1640869030026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56383" "-no-remote" "-profile" "C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofileQDLkDz"
+1640869030997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofileQDLkDz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56383/devtools/browser/fdc05ff5-e4c7-4738-a052-5a686ec5db33
+1640869033267	Marionette	INFO	Listening on port 56388
+1640869033731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640869159667	Marionette	INFO	Stopped listening on port 56388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640869161076	geckodriver	INFO	Listening on 127.0.0.1:56511
+1640869164135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56512" "-no-remote" "-profile" "C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofileQeossh"
+1640869164492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofileQeossh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56512/devtools/browser/f5934f4e-80b4-4084-91f2-d4dde82486e1
+1640869166292	Marionette	INFO	Listening on port 56517
+1640869166316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640869287976	Marionette	INFO	Stopped listening on port 56517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640876101056	geckodriver	INFO	Listening on 127.0.0.1:56103
+1640876104328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56104" "-no-remote" "-profile" "C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofileqQvm7r"
+1640876104661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\louki\\AppData\\Local\\Temp\\rust_mozprofileqQvm7r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56104/devtools/browser/f995f341-e700-4303-a753-6eaae01bf313
+1640876106548	Marionette	INFO	Listening on port 56109
+1640876107011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640876116438	Marionette	INFO	Stopped listening on port 56109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
